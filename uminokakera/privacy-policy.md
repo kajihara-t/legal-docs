@@ -67,4 +67,4 @@
 
 ---
 
-お問い合わせ: dev.kajihara@gmail.com
+お問い合わせ: umikake@pcand.net
